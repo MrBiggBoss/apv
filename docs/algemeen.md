@@ -460,6 +460,7 @@ Hier hebben we ons ticketsysteem voor.
 - Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepantserd voertuig zit.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 - Zware wapens mogen enkel door de daarvoor opgeleiden eenheden gebruikt worden.
+- Het leaken van informatie/documenten in of uit dienst zal worden gezien als corruptie en bestraft worden met een straf categorie 4.
 
 
 ### **Wapens per categorie:**
